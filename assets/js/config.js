@@ -7,5 +7,5 @@
 //  Enquanto não estiver preenchido, o site abre em MODO DEMONSTRAÇÃO.
 // =====================================================================
 
-export const SUPABASE_URL = 'https://dzfkynsbyjmwsvkniixx.supabase.co';       // ex.: https://abcdxyz.supabase.co
-export const SUPABASE_ANON_KEY = 'sb_publishable_1eD6OrqNavRcvH9u2AWPmw_JqzCfxen';
+export const SUPABASE_URL = 'https://dfqhocgoowbgimilnuba.supabase.co';       // ex.: https://abcdxyz.supabase.co
+export const SUPABASE_ANON_KEY = 'sb_publishable_brxEGpcZwPbVBUaYMDyS-A_qXuzZc7r';
